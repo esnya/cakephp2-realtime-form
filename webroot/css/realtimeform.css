@@ -1,0 +1,14 @@
+input.rtf-input {
+    width: auto;
+}
+
+textarea.rtf-input,
+input.rtf-input[type=text],
+input.rtf-input[type=number] {
+    width: 100%;
+}
+
+button.rtf-remove {
+    margin: 0;
+    margin-left: -24px;
+}
